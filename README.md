@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sherin456/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sherin456/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sherin456/leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/sherin456/leetcode/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sherin456/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sherin456/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sherin456/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/sherin456/leetcode/tree/master/0064-minimum-path-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sherin456/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sherin456/leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/sherin456/leetcode/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |
