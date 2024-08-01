@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sherin456/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sherin456/leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sherin456/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/sherin456/leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sherin456/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sherin456/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/sherin456/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/sherin456/leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
