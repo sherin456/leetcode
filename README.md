@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sherin456/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sherin456/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sherin456/leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/sherin456/leetcode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sherin456/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sherin456/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sherin456/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sherin456/leetcode/tree/master/0062-unique-paths) |
 ## Sorting
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sherin456/leetcode/tree/master/0055-jump-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sherin456/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
