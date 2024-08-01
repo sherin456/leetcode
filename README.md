@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sherin456/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sherin456/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sherin456/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/sherin456/leetcode/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sherin456/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sherin456/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/sherin456/leetcode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/sherin456/leetcode/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -195,4 +197,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sherin456/leetcode/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sherin456/leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sherin456/leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sherin456/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
