@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sherin456/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sherin456/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/sherin456/leetcode/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/sherin456/leetcode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sherin456/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sherin456/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sherin456/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/sherin456/leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
