@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sherin456/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sherin456/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sherin456/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sherin456/leetcode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sherin456/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sherin456/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sherin456/leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/sherin456/leetcode/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sherin456/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sherin456/leetcode/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sherin456/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
