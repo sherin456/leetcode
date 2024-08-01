@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sherin456/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sherin456/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/sherin456/leetcode/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/sherin456/leetcode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sherin456/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sherin456/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/sherin456/leetcode/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/sherin456/leetcode/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sherin456/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sherin456/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/sherin456/leetcode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/sherin456/leetcode/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sherin456/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sherin456/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sherin456/leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/sherin456/leetcode/tree/master/0143-reorder-list) |
 ## String Matching
 |  |
 | ------- |
