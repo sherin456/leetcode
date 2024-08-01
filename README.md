@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sherin456/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/sherin456/leetcode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/sherin456/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/sherin456/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sherin456/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sherin456/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sherin456/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/sherin456/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sherin456/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sherin456/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sherin456/leetcode/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/sherin456/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
