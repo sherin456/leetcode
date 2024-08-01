@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sherin456/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sherin456/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sherin456/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sherin456/leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/sherin456/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sherin456/leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/sherin456/leetcode/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sherin456/leetcode/tree/master/0200-number-of-islands) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sherin456/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
