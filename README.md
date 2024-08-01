@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sherin456/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/sherin456/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sherin456/leetcode/tree/master/0342-power-of-four) |
+| [0856-consecutive-numbers-sum](https://github.com/sherin456/leetcode/tree/master/0856-consecutive-numbers-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0420-strong-password-checker](https://github.com/sherin456/leetcode/tree/master/0420-strong-password-checker) |
+## Enumeration
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/sherin456/leetcode/tree/master/0856-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
