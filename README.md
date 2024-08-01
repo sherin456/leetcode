@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sherin456/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sherin456/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sherin456/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sherin456/leetcode/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sherin456/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sherin456/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/sherin456/leetcode/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
