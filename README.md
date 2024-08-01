@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sherin456/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sherin456/leetcode/tree/master/0342-power-of-four) |
 | [0856-consecutive-numbers-sum](https://github.com/sherin456/leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1642-water-bottles](https://github.com/sherin456/leetcode/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sherin456/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sherin456/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sherin456/leetcode/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/sherin456/leetcode/tree/master/1642-water-bottles) |
 ## Matrix
 |  |
 | ------- |
