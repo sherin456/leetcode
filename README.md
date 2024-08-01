@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sherin456/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sherin456/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/sherin456/leetcode/tree/master/0290-word-pattern) |
+| [0420-strong-password-checker](https://github.com/sherin456/leetcode/tree/master/0420-strong-password-checker) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sherin456/leetcode/tree/master/0055-jump-game) |
+| [0420-strong-password-checker](https://github.com/sherin456/leetcode/tree/master/0420-strong-password-checker) |
 ## Combinatorics
 |  |
 | ------- |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sherin456/leetcode/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0420-strong-password-checker](https://github.com/sherin456/leetcode/tree/master/0420-strong-password-checker) |
 <!---LeetCode Topics End-->
