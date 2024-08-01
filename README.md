@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sherin456/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/sherin456/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/sherin456/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sherin456/leetcode/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sherin456/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sherin456/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sherin456/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/sherin456/leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sherin456/leetcode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/sherin456/leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/sherin456/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/sherin456/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
